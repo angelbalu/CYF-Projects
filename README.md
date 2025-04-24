@@ -1,4 +1,4 @@
-# 🌟 <Code>YourFuture – Intro to Digital Bootcamp Projects
+# 🌟 < Code >YourFuture – Intro to Digital Bootcamp Projects
 
 Welcome to my collection of mini-projects completed as part of the [CodeYourFuture](https://codeyourfuture.io/) **Intro to Digital Bootcamp**! This journey introduced me to the world of web development, and here you'll find four creative projects using **HTML** and **CSS**.
 
